@@ -1,0 +1,13 @@
+.vscode/
+
+# Toolchain (download separately, see README)
+oss-cad-suite/
+
+# Build outputs
+fpga.json
+fpga_pnr.json
+fpga.fs
+*.dbgmodule
+
+# Vendor docs (not redistributable, see README)
+*.pdf
